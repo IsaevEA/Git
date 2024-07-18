@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Chtpfsd;lgk строку для демострации");
         System.out.println("Chtpfsd;lgk строку для демострации");
         System.out.println("Chtpfsd;lgk строку для демострации");
+
+        System.out.println("практика");
     }
 }
